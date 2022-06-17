@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/nai2zHc.gif" align="center" style="width: 100%" />
 </div>  
 <!--
 **tommyqamaz/tommyqamaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
