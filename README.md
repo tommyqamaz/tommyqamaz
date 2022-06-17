@@ -1,10 +1,9 @@
-### Hi there 👋
 <div align="center">
 <img src="https://c.tenor.com/jWgsI4lVFxYAAAAd/dwayne-johnson-dwayne-the-rock-johnson.gif" align="center" width="250" height="250"/>
 </div>
-<div align="center">
+<!-- <div align="center">
 <img src="https://i.imgur.com/nai2zHc.gif" align="center" style="width: 100%" />
-</div> 
+</div>  -->
 <!--
 **tommyqamaz/tommyqamaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://c.tenor.com/jWgsI4lVFxYAAAAd/dwayne-johnson-dwayne-the-rock-johnson.gif
