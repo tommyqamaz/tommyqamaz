@@ -1,10 +1,15 @@
 ### Hi there 👋
 <div align="center">
+<!-- <img src="https://i.imgur.com/nai2zHc.gif" align="center" style="width: 100%" /> -->
+<img src="https://c.tenor.com/jWgsI4lVFxYAAAAd/dwayne-johnson-dwayne-the-rock-johnson.gif" align="center" style="width: 100%" />
+</div>
+<div align="center">
 <img src="https://i.imgur.com/nai2zHc.gif" align="center" style="width: 100%" />
-</div>  
+<!-- <img src="https://c.tenor.com/jWgsI4lVFxYAAAAd/dwayne-johnson-dwayne-the-rock-johnson.gif" align="center" style="width: 100%" /> -->
+</div> 
 <!--
 **tommyqamaz/tommyqamaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://c.tenor.com/jWgsI4lVFxYAAAAd/dwayne-johnson-dwayne-the-rock-johnson.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
