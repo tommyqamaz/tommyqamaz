@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
 <!-- <img src="https://i.imgur.com/nai2zHc.gif" align="center" style="width: 100%" /> -->
-<img src="https://c.tenor.com/jWgsI4lVFxYAAAAd/dwayne-johnson-dwayne-the-rock-johnson.gif" align="center" style="width: 50%" />
+<img src="https://c.tenor.com/jWgsI4lVFxYAAAAd/dwayne-johnson-dwayne-the-rock-johnson.gif" align="center" style="width: 20%" />
 </div>
 <div align="center">
 <img src="https://i.imgur.com/nai2zHc.gif" align="center" style="width: 100%" />
